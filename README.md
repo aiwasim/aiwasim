@@ -35,7 +35,7 @@ Sr. Executive | Mentor👨‍💻 | Student Relationship & Growth at Programming
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifulwasim&layout=compact&theme=dark" alt=arifulwasim />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=arifulwasim&show_icons=true&locale=en&theme=dark" alt="arifulwasim" /></p>
+
 
 
 
